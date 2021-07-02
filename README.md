@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LLuckyyL
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on math based code.
+- 📚 I’m looking to collaborate on math based code.
 - 📫 How to reach me, email me on lluckyyl7@gmail.com.
 
 <!---
