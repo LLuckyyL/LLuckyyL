@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LLuckyyL
+- 👋 Hi, I’m @Lokuwattage Lakindu Janiya Perera
 - 👀 I’m Masters of Data Science student.
 - 🌱 I’m currently learning ML.
 - 📚 I’m looking to collaborate on ML based code.
